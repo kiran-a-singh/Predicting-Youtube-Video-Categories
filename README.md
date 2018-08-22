@@ -1,4 +1,4 @@
-# Predicting-YouTube-Video-Categories
+# Predicting YouTube Video Categories
 ***
 
 ## Summary
